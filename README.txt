@@ -1,4 +1,4 @@
-# Brainfuck
+# Brainfuck for LINUX/UNIX system
 This is brainfuck interpreter made using Python By Pranoy Dhar from scratch
 Brainfuck starts with a one dimensional array of size 30000 initialised to 0
 and the pointer is set to first position index
