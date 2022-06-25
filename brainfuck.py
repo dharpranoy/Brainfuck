@@ -61,6 +61,18 @@ while True:
         exit(1)
     if x=="clear":
         os.system("clear")
+    elif x=='help':
+        print('''
+            clear - clear console
+            exit - close the program
+            > Moves the pointer to right
+            < Moves the pointer to left
+            + Increments the cell value by 1
+            - Decrements the cell value by 1
+            ^ Outputs the integer value of current cell
+            . Outpus the ascii character of the current cell
+            , Takes input from user
+        ''')
     try:
         Interpreter.evalualate(x)
     except:
