@@ -70,7 +70,7 @@ while True:
             + Increments the cell value by 1
             - Decrements the cell value by 1
             ^ Outputs the integer value of current cell
-            . Outpus the ascii character of the current cell
+            . Outputs the ascii character of the current cell
             , Takes input from user
         ''')
     try:
