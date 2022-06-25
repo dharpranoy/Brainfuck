@@ -28,5 +28,5 @@ and the pointer is set to first position index
 , user input and putting into the current cell
 
 
-
-Download the brainfuck.py file and run
+1) pip install colorama
+2) Download the brainfuck.py file and run
