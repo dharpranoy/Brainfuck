@@ -29,4 +29,5 @@ and the pointer is set to first position index
 
 
 1) pip install colorama
-2) Download the brainfuck.py file and run
+2) dnf install figlet or apt-get install figlet for your distro
+3) Download the brainfuck.py file and run
