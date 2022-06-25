@@ -2,7 +2,7 @@
 import os
 from colorama import Fore,Back
 os.system("figlet Brainfuck")
-print("\033[1;31mBrainfuck interpreter [>+<-]")
+print("\033[1;31mBrainfuck interpreter [>+<-] \n Type help for manual")
 print(" \033[1;37mAuthor : Pranoy Dhar@2022")
 print(Fore.GREEN)
 class Parser:
