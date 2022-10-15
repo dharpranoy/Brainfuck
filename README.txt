@@ -28,6 +28,7 @@ and the pointer is set to first position index
 , user input and putting into the current cell
 
 
+To run the file follow the given steps:
 1) pip install colorama
 2) dnf install figlet -y or apt-get install -y figlet for your distro
 3) Download the brainfuck.py file and run
